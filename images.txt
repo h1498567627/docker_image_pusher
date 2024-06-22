@@ -1,2 +1,1 @@
-alpine
-consul:1.15.4
+busybox:latest
