@@ -1,1 +1,1 @@
-curl:latest
+curlimages/curl:latest
