@@ -1,1 +1,5 @@
 curlimages/curl:latest
+alpine:latest
+busybox:latest
+hashicorp/consul:latest
+nginx:stable-alpine
