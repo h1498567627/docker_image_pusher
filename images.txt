@@ -1,5 +1,5 @@
 curl:latest
 alpine:latest
 busybox:latest
-consul:latest
+hashicorp/consul:latest
 nginx:stable-alpine
