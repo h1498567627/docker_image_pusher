@@ -1,1 +1,2 @@
+curlimages/curl:latest
 busybox:latest
