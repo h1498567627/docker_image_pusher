@@ -3,3 +3,4 @@ alpine:latest
 busybox:latest
 hashicorp/consul:latest
 nginx:stable-alpine
+ubuntu
